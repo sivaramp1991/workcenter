@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 import Hello from './Hello';
 import { default as TaskData } from './data'
 import './style.css';
+
 class App extends Component {
   constructor() {
     super();
